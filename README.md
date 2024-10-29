@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-KWGSZ4SNW0)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://nelson-j-montesinos.github.io/Product-Preview-Card/)
 
 ## My process
 
